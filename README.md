@@ -22,7 +22,7 @@ Junior Web Developer | Actively seek new opportunities in the field... 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> 
 
 
-[![Siranjeevi stats](https://github-readme-stats.vercel.app/api?username=siranjeevicad01&hide=stars&count_private=true&show_icons=true)]
+![Siranjeevi GitHub stats](https://github-readme-stats.vercel.app/api?username=siranjeevicad01&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 [![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/siranjeevicad01?theme=dark&font=Marmelad))]
