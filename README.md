@@ -22,9 +22,9 @@ Junior Web Developer | Actively seek new opportunities in the field... 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> 
 
 
-![Siranjeevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=siranjeevicad01&theme=dark&show_icons=true&&hide=issues,contribs)
+![Siranjeevi's GitHub stats](https://github-readme-stats.vercel.app/api?username=siranjeevis01&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Siranjeevi?ext=contest&theme=dark)](https://leetcode.com/siranjeevis01)
 
-[![Siranjeevi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siranjeevicad01&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Siranjeevi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=siranjeevis01&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
